@@ -1,0 +1,20 @@
+{
+  "name": "lesson05",
+  "version": "1.0.0",
+  "description": "Npm Testing Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js"
+  ],
+  "author": "Hemel",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.0",
+    "whats-the-release": "^1.0.3"
+  }
+}
